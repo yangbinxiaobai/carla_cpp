@@ -142,3 +142,4 @@ git rm -rf .
 [xhoyh](https://github.com/xhoyh)
 [ggiiatr](https://github.com/ggiiatr/carla_cpp)
 [suki-mina](https://github.com/suki-mina)
+[yangbinxiaobai](https://github.com/yangbinxiaobai)
